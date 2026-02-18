@@ -1,5 +1,5 @@
 baseURL: https://iamarya2k24.github.io
-title: ExampleSite
+title: My Notes & Portfolio
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -13,9 +13,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  title: My Notes & Portfolio
+  description: "A place where I share my thoughts on the things I am working on and Philosophy."
+  keywords: [Blog, Portfolio, Technology, DevOps, SRE, Linux Admin, Raspberry Pi, Cloud Engineering, CloudOps, AWS, OVH, Azure, Digital Ocean, Vultr]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -56,7 +56,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: My Notes & Portfolio
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
