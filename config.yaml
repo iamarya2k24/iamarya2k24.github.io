@@ -70,8 +70,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hi there \U0001F44B, I am Arya."
+    Content: Welcome to my blog & portfolio.
 
   socialIcons:
     - name: mastodon
