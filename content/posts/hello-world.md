@@ -12,9 +12,9 @@ draft: false
 hidemeta: false
 comments: false
 description: "Hello World"
-canonicalURL: "https://iamarya2k24.github.io/page"
+canonicalURL: "https://iamarya2k24.github.io/posts/content  "
 disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true

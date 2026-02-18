@@ -18,7 +18,7 @@ params:
   keywords: [Blog, Portfolio, Technology, DevOps, SRE, Linux Admin, Raspberry Pi, Cloud Engineering, CloudOps, AWS, OVH, Azure, Digital Ocean, Vultr]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["/assets/images/arya-profile-photo.jpg"]
+  images: ["/images/arya-profile-photo.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -42,26 +42,26 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/assets/images/favicon.ico"
-    favicon16x16: "/assets/images/favicon-16x16.png"
-    favicon32x32: "/assets/images/favicon-32x32.png"
-    apple_touch_icon: "/assets/images/apple-touch-icon.png"
-    safari_pinned_tab: "/assets/images/android-chrome-192x192.png"
+    favicon: "/images/favicon.ico"
+    favicon16x16: "/images/favicon-16x16.png"
+    favicon32x32: "/images/favicon-32x32.png"
+    apple_touch_icon: "/images/apple-touch-icon.png"
+    safari_pinned_tab: "/images/android-chrome-192x192.png"
 
-  label:
-    text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+  # label:
+  #   text: "Home"
+  #   icon: /images/apple-touch-icon.png
+  #   iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: My Notes & Portfolio
-    subtitle: "This is subtitle"
-    imageUrl: "/assets/images/arya-profile-photo.jpg"
+    subtitle: "A place where I share my thoughts on the things that I am working on and Philosophy."
+    imageUrl: "/images/arya-profile-photo.jpg"
     imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    imageHeight: 
+    imageTitle: my avatar
     buttons:
       - name: Posts
         url: posts
@@ -70,8 +70,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hi there \U0001F44B, I am Arya."
+    Content: Welcome to my blog & portfolio.
 
   socialIcons:
     - name: mastodon
@@ -110,17 +110,17 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: about me
+      name: about me
+      url: /aboutme/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: posts
+      name: posts
+      url: /posts/
       weight: 20
-    # - identifier: aboutMe
-    #   name: aboutMe
-    #   url: https://iamarya2k24.github.io
+    # - identifier: resume
+    #   name: resume
+    #   url: https://iamarya2k24.github.io/arya-latest-resume.pdf
     #   weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
