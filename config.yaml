@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: My Notes & Portfolio
-    subtitle: "A place where I share my thoughts on the things that I am working on and Philosophy."
+    subtitle: "A place where I share my thoughts on the things that I am working on and my philosophy."
     imageUrl: "/images/arya-profile-photo.jpg"
     imageWidth: 120
     imageHeight: 

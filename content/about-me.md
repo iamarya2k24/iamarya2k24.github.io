@@ -3,7 +3,7 @@ title: "Who, What and Why - DevOps, SRE, Linux, AWS"
 date: 2026-02-18T16:30:03+05:30
 weight: 1
 aliases: ["/about-me"]
-tags: ["aboutme"]
+tags: ["aboutme, aws, cloud, ovh, linode, vultr, linux, cloudOps, resume, consulting"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
