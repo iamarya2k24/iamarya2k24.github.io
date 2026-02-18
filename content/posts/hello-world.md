@@ -49,4 +49,4 @@ Arya
 
 ## Are you Hiring?
 
-If yes, kindly checkout my resume linked **here.**
+If yes, kindly checkout my resume linked > 📄 [Download My Resume](https://github.com/iamarya2k24/yaml-resume/blob/main/my-resume.pdf)
