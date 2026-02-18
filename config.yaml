@@ -134,3 +134,8 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+# Read: https://gohugo.io/host-and-deploy/host-on-github-pages/ Setup cache for GH Actions
+caches:
+  images:
+    dir: :cacheDir/images
