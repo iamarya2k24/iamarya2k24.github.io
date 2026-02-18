@@ -15,7 +15,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: My Notes & Portfolio
   description: "A place where I share my thoughts on the things I am working on and Philosophy."
-  keywords: [Blog, Portfolio, Technology, DevOps, SRE, Linux Admin, Raspberry Pi, Cloud Engineering, CloudOps, AWS, OVH, Azure, Digital Ocean, Vultr]
+  keywords: ["Blog", "Portfolio", "Technology", "DevOps", "SRE", "Linux Admin", "Raspberry Pi", "Cloud Engineering", "CloudOps", "AWS", "OVH", "Azure", "Digital Ocean", "Vultr"]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["/images/arya-profile-photo.jpg"]
