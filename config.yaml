@@ -75,9 +75,9 @@ params:
 
   socialIcons:
     - name: mastodon
-      url: "https://mastodon.social/"
+      url: "https://fosstodon.org/@null0x0"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/iamarya2k24"
 
   analytics:
     google:
