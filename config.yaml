@@ -88,7 +88,7 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
+    hidden: true # hide every where but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
@@ -118,10 +118,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: myNotes
-      name: iamarya2k24.github.io
-      url: https://iamarya2k24.github.io
-      weight: 30
+    # - identifier: aboutMe
+    #   name: aboutMe
+    #   url: https://iamarya2k24.github.io
+    #   weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
