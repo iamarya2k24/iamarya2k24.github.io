@@ -4,7 +4,7 @@ date: 2026-02-18T16:30:03+05:30
 weight: 1
 aliases: ["/about-me"]
 tags: ["aboutme, aws, cloud, ovh, linode, vultr, linux, cloudOps, resume, consulting"]
-author: "Me"
+author: "Arya N"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
