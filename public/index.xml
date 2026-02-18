@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My Notes &amp; Portfolio</title>
+    <title>Notes by Arya &amp; Thoughts on SRE, DevOPS, AWS, Consulting</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My Notes &amp; Portfolio</description>
+    <description>Recent content on Notes by Arya &amp; Thoughts on SRE, DevOPS, AWS, Consulting</description>
     <image>
-      <title>My Notes &amp; Portfolio</title>
+      <title>Notes by Arya &amp; Thoughts on SRE, DevOPS, AWS, Consulting</title>
       <url>http://localhost:1313/images/arya-profile-photo.jpg</url>
       <link>http://localhost:1313/images/arya-profile-photo.jpg</link>
     </image>
