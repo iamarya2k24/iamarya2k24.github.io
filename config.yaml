@@ -13,7 +13,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: My Notes & Portfolio
+  title: My Notes & Portfolio - Arya N SRE, DevOps, Linux and AWS Cloud
   description: "A place where I share my thoughts on the things I am working on and Philosophy."
   keywords: [Blog, Portfolio, Technology, DevOps, SRE, Linux Admin, Raspberry Pi, Cloud Engineering, CloudOps, AWS, OVH, Azure, Digital Ocean, Vultr]
   author: Me
