@@ -1,5 +1,5 @@
 baseURL: https://iamarya2k24.github.io
-title: ExampleSite
+title: My Notes & Portfolio
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -13,12 +13,12 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  title: My Notes & Portfolio
+  description: "A place where I share my thoughts on the things I am working on and Philosophy."
+  keywords: [Blog, Portfolio, Technology, DevOps, SRE, Linux Admin, Raspberry Pi, Cloud Engineering, CloudOps, AWS, OVH, Azure, Digital Ocean, Vultr]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/assets/images/arya-profile-photo.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -42,11 +42,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/assets/images/favicon.ico"
+    favicon16x16: "/assets/images/favicon-16x16.png"
+    favicon32x32: "/assets/images/favicon-32x32.png"
+    apple_touch_icon: "/assets/images/apple-touch-icon.png"
+    safari_pinned_tab: "/assets/images/android-chrome-192x192.png"
 
   label:
     text: "Home"
@@ -56,9 +56,9 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: My Notes & Portfolio
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "/assets/images/arya-profile-photo.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -74,10 +74,8 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: mastodon
+      url: "https://mastodon.social/"
     - name: github
       url: "https://github.com/"
 
@@ -95,7 +93,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/iamarya2k24/iamarya2k24.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -120,9 +118,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: myNotes
+      name: iamarya2k24.github.io
+      url: https://iamarya2k24.github.io
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
