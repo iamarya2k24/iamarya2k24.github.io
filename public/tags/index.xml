@@ -14,10 +14,38 @@
     <lastBuildDate>Wed, 18 Feb 2026 16:30:03 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Aboutme, Aws, Cloud, Ovh, Linode, Vultr, Linux, CloudOps, Resume, Consulting</title>
-      <link>http://localhost:1313/tags/aboutme-aws-cloud-ovh-linode-vultr-linux-cloudops-resume-consulting/</link>
+      <title>AboutMe</title>
+      <link>http://localhost:1313/tags/aboutme/</link>
       <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
-      <guid>http://localhost:1313/tags/aboutme-aws-cloud-ovh-linode-vultr-linux-cloudops-resume-consulting/</guid>
+      <guid>http://localhost:1313/tags/aboutme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aws</title>
+      <link>http://localhost:1313/tags/aws/</link>
+      <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
+      <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud</title>
+      <link>http://localhost:1313/tags/cloud/</link>
+      <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
+      <guid>http://localhost:1313/tags/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CloudOps</title>
+      <link>http://localhost:1313/tags/cloudops/</link>
+      <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
+      <guid>http://localhost:1313/tags/cloudops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consulting</title>
+      <link>http://localhost:1313/tags/consulting/</link>
+      <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
+      <guid>http://localhost:1313/tags/consulting/</guid>
       <description></description>
     </item>
     <item>
@@ -25,6 +53,41 @@
       <link>http://localhost:1313/tags/firstpost/</link>
       <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
       <guid>http://localhost:1313/tags/firstpost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linode</title>
+      <link>http://localhost:1313/tags/linode/</link>
+      <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
+      <guid>http://localhost:1313/tags/linode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ovh</title>
+      <link>http://localhost:1313/tags/ovh/</link>
+      <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
+      <guid>http://localhost:1313/tags/ovh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/tags/resume/</link>
+      <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
+      <guid>http://localhost:1313/tags/resume/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vultr</title>
+      <link>http://localhost:1313/tags/vultr/</link>
+      <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
+      <guid>http://localhost:1313/tags/vultr/</guid>
       <description></description>
     </item>
   </channel>
