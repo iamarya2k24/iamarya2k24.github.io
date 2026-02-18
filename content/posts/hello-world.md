@@ -3,7 +3,7 @@ title: "Hello World"
 date: 2026-02-18T16:30:03+05:30
 weight: 1
 aliases: ["/first-post"]
-tags: ["first"]
+tags: ["firstPost"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
