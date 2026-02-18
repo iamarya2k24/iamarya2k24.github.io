@@ -20,5 +20,12 @@
       <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>Hello World</description>
     </item>
+    <item>
+      <title>Who, What and Why - DevOps, SRE, Linux, AWS</title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
+      <guid>http://localhost:1313/about-me/</guid>
+      <description>Find out more about me, work exp and hobbies</description>
+    </item>
   </channel>
 </rss>

@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Hello World"
-canonicalURL: "https://iamarya2k24.github.io/posts/content  "
+canonicalURL: "https://iamarya2k24.github.io/posts/content"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 hideSummary: false
@@ -24,9 +24,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "/images/arya-profile-photo.jpg" # image path/url
+    alt: "my avatar" # alt text
+    caption: "my avatar" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
