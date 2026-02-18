@@ -6,8 +6,8 @@
     <description>Recent content in Categories on My Notes &amp; Portfolio</description>
     <image>
       <title>My Notes &amp; Portfolio</title>
-      <url>http://localhost:1313/assets/images/arya-profile-photo.jpg</url>
-      <link>http://localhost:1313/assets/images/arya-profile-photo.jpg</link>
+      <url>http://localhost:1313/images/arya-profile-photo.jpg</url>
+      <link>http://localhost:1313/images/arya-profile-photo.jpg</link>
     </image>
     <generator>Hugo -- 0.155.3</generator>
     <language>en</language>
