@@ -1,9 +1,9 @@
 ---
-title: "Hello World"
+title: "About me and Projects"
 date: 2026-02-18T16:30:03+05:30
 weight: 1
-aliases: ["/first-post"]
-tags: ["first"]
+aliases: ["/about-me"]
+tags: ["aboutme"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,8 +11,8 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Hello World"
-canonicalURL: "https://iamarya2k24.github.io/posts/content"
+description: "Find out more about me"
+#canonicalURL: "https://iamarya2k24.github.io/posts/content"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 hideSummary: false
@@ -25,8 +25,8 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
     image: "/images/arya-profile-photo.jpg" # image path/url
-    alt: "my avatar" # alt text
-    caption: "my avatar" # display caption under cover
+    alt: "My avatar" # alt text
+    caption: "My avatar" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
@@ -35,18 +35,10 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-# Introduction
+# Introduction:
 
-## Welcome to my blog
+## Quick facts:
 
-This is a place where I want to share my learnings, code, reviews and work.
+## Projects
 
-Thank you for checking it out.
-Hope you have a good day/night.
-
-Yours,
-Arya
-
-## Are you Hiring?
-
-If yes, kindly checkout my resume linked **here.**
+## Hobbies
