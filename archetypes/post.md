@@ -4,7 +4,7 @@ date: 2026-02-19T19:30:00+05:30
 # weight: 1
 # aliases: ["/first"]
 tags: ["none"]
-author: "Me"
+author: "Arya N"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false

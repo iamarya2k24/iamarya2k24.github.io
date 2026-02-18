@@ -4,7 +4,7 @@ date: 2026-02-18T16:30:03+05:30
 weight: 1
 aliases: ["/about-me"]
 tags: ["aboutme, aws, cloud, ovh, linode, vultr, linux, cloudOps, resume, consulting"]
-author: "Me"
+author: "Arya N"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -37,13 +37,13 @@ editPost:
 
 # Introduction
 
-Seeking Cloud Solutions Expert? Let's Connect!
+## Seeking Cloud Solutions Expert? Let's Connect!
 
 I am a results-oriented IT Consultant, Linux System Administrator and Cloud Solution Architect with over 7 years of experience specializing in designing, implementing, migrating, and managing robust, scalable, and cost-efficient cloud infrastructures. My expertise spans IT infrastructure management, Linux systems administration, and delivering tailored cloud solutions for global clients.
 
 I excel at developing comprehensive cloud strategies, leading migration projects, and providing technical leadership. I have a proven track record of collaborating with stakeholders at all levels, from engineering teams to C-suite executives, to align technology solutions with business objectives.
 
-## Quick facts
+### Quick facts
 
 - ☁️ Cloud Strategy & Architecture (AWS, OVH, Akamai Linode, Digital Ocean, Vultr & Azure): Designing resilient, secure, and scalable cloud environments utilizing services such as EC2, S3, Lambda, VPC (AWS) and Virtual Machines.
 - 🚀 Cloud Migration: Planning and executing seamless migrations with minimal disruption.
