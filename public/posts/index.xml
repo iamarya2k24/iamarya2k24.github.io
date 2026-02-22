@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.155.3</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Feb 2026 16:30:03 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 16:30:03 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
@@ -19,6 +19,13 @@
       <pubDate>Wed, 18 Feb 2026 16:30:03 +0530</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>Hello World</description>
+    </item>
+    <item>
+      <title>Surya B22 Inverter Bulb Teardown: Fix Blinking Issues &amp; Battery Failure</title>
+      <link>http://localhost:1313/posts/whats-inside-b22-emergency-bulb/</link>
+      <pubDate>Sun, 22 Feb 2026 16:30:03 +0530</pubDate>
+      <guid>http://localhost:1313/posts/whats-inside-b22-emergency-bulb/</guid>
+      <description>A deep dive into the Surya B22 rechargeable bulb: Featuring a 2600mAh Enerzone 18650 battery and 34 LEDs. Learn how to disassemble and diagnose circuit failures.</description>
     </item>
   </channel>
 </rss>
