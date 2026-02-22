@@ -88,5 +88,4 @@ My teardown suggests that the LED chips themselves are fine; the issue lies enti
 **My Next Step**: I will try replacing the 18650 battery with a fresh one and check if the blinking stops. I’ll report back with the results!
 
 ## Stay Updated
-If you found this teardown helpful, you can follow this blog via [RSS](https://iamarya2k24.github.io/index.xml) or find me on <!-- Add code snippet for Mastodon verification. -->
-<a rel="me" href="https://fosstodon.org/@null0x0">Mastodon</a> for more DIY repair guides and tech experiments.
+If you found this teardown helpful, you can follow this blog via [RSS](https://iamarya2k24.github.io/index.xml) or find me on [Mastodon](https://fosstodon.org/@null0x0) for more DIY repair guides and tech experiments.
