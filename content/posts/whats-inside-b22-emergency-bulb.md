@@ -63,7 +63,7 @@ I moved the bottom half of the bulb and managed to twist it out, exposing the ci
 ![18650 Li-ion battery](/images/IMG_2728-EDIT.jpg#center)
 
 
-The Li-ion battery is made by Enerzone India. Rated at 3.7volts x 2600 mAh. I can see a black soot near the battery protection circuit. It seems a capacitor has blown. But the battery is still working, it does seem like it can't take any charge.
+The Li-ion battery is made by Enerzone India. Rated at 3.7volts x 2600 mAh. 
 
 ![LED Driver Circuit](/images/IMG_2727-EDIT.jpg#center)
 
@@ -88,4 +88,4 @@ My teardown suggests that the LED chips themselves are fine; the issue lies enti
 **My Next Step**: I will try replacing the 18650 battery with a fresh one and check if the blinking stops. I’ll report back with the results!
 
 ## Stay Updated
-If you found this teardown helpful, you can follow this blog via [RSS](https://iamarya2k24.github.io/index.xml) or find me on Mastodon for more DIY repair guides and tech experiments.
+If you found this teardown helpful, you can follow this blog via [RSS](https://iamarya2k24.github.io/index.xml) or find me on [Mastodon](https://fosstodon.org/@null0x0) for more DIY repair guides and tech experiments.
