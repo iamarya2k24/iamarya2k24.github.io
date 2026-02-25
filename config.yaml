@@ -1,5 +1,5 @@
 baseURL: https://iamarya2k24.github.io
-title: Notes by Arya & Thoughts on SRE, DevOPS, AWS, Consulting
+title: Notes by Arya
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -13,8 +13,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: My Notes & Portfolio
-  description: "A place where I share my thoughts on the things I am working on and Philosophy."
+  title: "My Notes & Portfolio"
+  description: "A place where I share my thoughts on DIY, SRE, DevOPS, AWS, Consulting"
   keywords: ["Blog", "Portfolio", "Technology", "DevOps", "SRE", "Linux Admin", "Raspberry Pi", "Cloud Engineering", "CloudOps", "AWS", "OVH", "Azure", "Digital Ocean", "Vultr"]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -56,8 +56,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: My Notes & Portfolio
-    subtitle: "A place where I share my thoughts on the things that I am working on and my philosophy."
+    title: "My Notes & Thoughts"
+    subtitle: "A place where I share my thoughts on DIY, SRE, DevOPS, AWS, & Consulting"
     imageUrl: "/images/arya-profile-photo.jpg"
     imageWidth: 120
     imageHeight: 
@@ -69,15 +69,17 @@ params:
         url: tags
 
   # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B, I am Arya."
-    Content: Welcome to my blog & portfolio.
+  # homeInfoParams:
+  #   Title: "Hi there \U0001F44B, I am Arya."
+  #   Content: Welcome to my blog & portfolio.
 
   socialIcons:
     - name: mastodon
       url: "https://fosstodon.org/@null0x0"
     - name: github
       url: "https://github.com/iamarya2k24"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/meta-arya/"  
 
   analytics:
     google:
@@ -118,10 +120,15 @@ menu:
       name: posts
       url: /posts/
       weight: 20
-    # - identifier: resume
-    #   name: resume
-    #   url: https://iamarya2k24.github.io/arya-latest-resume.pdf
-    #   weight: 30
+    - identifier: support me
+      name: support me
+      url: /support/
+      weight: 30
+    - identifier: rss
+      name: rss feed
+      url: /index.xml
+      weight: 40
+          
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -143,3 +150,9 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+
+frontmatter:
+  lastmod = [':git', ':fileModTime']
+
+timeZone :
+    "Asia/Kolkata"

@@ -43,7 +43,7 @@ I am a results-oriented IT Consultant, Linux System Administrator and Cloud Solu
 
 I excel at developing comprehensive cloud strategies, leading migration projects, and providing technical leadership. I have a proven track record of collaborating with stakeholders at all levels, from engineering teams to C-suite executives, to align technology solutions with business objectives.
 
-### Quick facts
+**Quick facts**
 
 - ☁️ Cloud Strategy & Architecture (AWS, OVH, Akamai Linode, Digital Ocean, Vultr & Azure): Designing resilient, secure, and scalable cloud environments utilizing services such as EC2, S3, Lambda, VPC (AWS) and Virtual Machines.
 - 🚀 Cloud Migration: Planning and executing seamless migrations with minimal disruption.
