@@ -14,9 +14,9 @@ comments: false
 description: "Run customized mpv on ChromeOS with hardware acceleration"
 canonicalURL: "https://iamarya2k24.github.io/posts/content"
 disableHLJS: true # to disable highlightjs
-disableShare: true
+disableShare: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
