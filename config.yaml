@@ -18,7 +18,7 @@ params:
   keywords: ["Blog", "Portfolio", "Technology", "DevOps", "SRE", "Linux Admin", "Raspberry Pi", "Cloud Engineering", "CloudOps", "AWS", "OVH", "Azure", "Digital Ocean", "Vultr"]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["/images/arya-profile-photo.jpg"]
+  images: ["/images/pride-profile-1772973720869.gif"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -58,8 +58,8 @@ params:
     enabled: true # needs to be explicitly set
     title: "My Notes & Thoughts"
     subtitle: "A place where I share my thoughts on DIY, SRE, DevOPS, AWS, & Consulting"
-    imageUrl: "/images/arya-profile-photo.jpg"
-    imageWidth: 120
+    imageUrl: "/images/pride-profile-1772973720869.gif"
+    imageWidth: auto
     imageHeight: 
     imageTitle: my avatar
     buttons:
