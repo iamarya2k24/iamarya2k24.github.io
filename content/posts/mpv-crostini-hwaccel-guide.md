@@ -47,7 +47,7 @@ Without the hardware acceleration the *playback* is *super stuttery* and audio/v
 
 ## Prerequisites
 
-1. Crostini enabled Chromebook with by opening the Chrome browser, navigate to `chrome://flags/#crostini-gpu-support`, enable the flag and restart the system.
+1. Chromebook with crostini support, You can enable it by launching Chrome browser, navigate to `chrome://flags/#crostini-gpu-support`, enable the flag and restart the system.
 2. Check if the hw is detected using `glxinfo -B` and `see “Device: virgl”`
 3. Download `mpv, xclip, ffmpeg` and other dependencies
 4. Clone the mpv-config [GitHub repo](https://github.com/noelsimbolon/mpv-config).
