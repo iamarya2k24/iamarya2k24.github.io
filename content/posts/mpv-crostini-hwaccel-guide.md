@@ -47,16 +47,16 @@ Without the hardware acceleration the *playback* is *super stuttery* and audio/v
 
 ## Prerequisites
 
-1. Crostini enabled Chromebook with by opening the Chrome browser, navigate to `chrome://flags/#crostini-gpu-support`, enable the flag and restart the system.
+1. Chromebook with crostini support, You can enable it by launching Chrome browser, navigate to `chrome://flags/#crostini-gpu-support`, enable the flag and restart the system.
 2. Check if the hw is detected using `glxinfo -B` and `see “Device: virgl”`
 3. Download `mpv, xclip, ffmpeg` and other dependencies
-4. Clone the mpv-config [GitHub repo](https://github.com/noelsimbolon/mpv-config).
+4. Clone the mpv-config [GitHub repo](https://github.com/iamarya2k24/mpv-config).
 
 > Note: *ASUS C423NA* doesn't support av1 encode/decode on my device.
 
 ## Steps
 
-1. Copy the content of the repo to the mpv config folder. On Linux its stored in `~/.config/mpv/mpv.conf`
+1. Copy the content of the repo to the mpv config folder. On Linux it is stored in `~/.config/mpv/mpv.conf`
 2. Edit the file, add the following to it.
 ```bash
 ~/.config/mpv/mpv.conf
@@ -64,7 +64,7 @@ Without the hardware acceleration the *playback* is *super stuttery* and audio/v
 vo=gpu
 hwdec=vaapi
 
-# Disable or alter the config parameters as per the hardware.
+# NOTE: disable or alter the config parameters as per the hardware.
 
 ```
 
@@ -87,3 +87,4 @@ hwdec=vaapi
 
 
 
+ 
