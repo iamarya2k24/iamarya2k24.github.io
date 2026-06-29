@@ -1,7 +1,7 @@
 ---
 title: "mpv on ChromeOS with Hardware acceleration"
 date: 2026-03-08T16:30:03+05:30
-weight: 1
+weight: 2
 #aliases: ["/first-post"]
 tags: ["linux", "mpv", "chromeos", "guides", "linuxOptimization", "h264"]
 author: "Me"

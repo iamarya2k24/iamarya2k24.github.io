@@ -1,7 +1,7 @@
 ---
 title: "Surya B22 Inverter Bulb Teardown: Fix Blinking Issues & Battery Failure"
 date: 2026-02-22T16:30:03+05:30
-weight: 2
+weight: 3
 aliases: ["/inside-a-b22-emergency-bulb"]
 tags: ["diy", "electronics"]
 author: "Me"
