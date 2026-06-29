@@ -1,7 +1,7 @@
 ---
-title: "Post #4"
+title: "Post 4 - My Oracle cloud experience"
 date: 2026-06-30T16:30:03+05:30
-weight: 1
+weight: 4
 aliases: ["/my-oracle-cloud-experience"]
 tags: ["oracle"]
 author: "Me"
