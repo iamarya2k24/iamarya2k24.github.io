@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/images/Clipboard_2026-06-30-02-29-05.png" # image path/url
+    image: "/images/excalidraw-oracle.png" # image path/url
     alt: "Oracle cloud infrastructure diagram." # alt text
     caption: "Oracle cloud infrastructure diagram." # display caption under cover
     relative: false # when using page bundles set this to true
@@ -62,7 +62,7 @@ This is a high level diagram depicting a typical dev env on OC.
 
 > **Note:** If you want IPv6 address for your instances, you need to create a custom VCN and enable IPv6 support, create subnets, routes with IPv6 addresses.
 
-![](/images/Clipboard_2026-06-30-02-29-05.png)
+![](/images/excalidraw-oracle.png)
 
 ### Current state of the project: **HOLD**
 ---
