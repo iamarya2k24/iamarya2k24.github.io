@@ -24,9 +24,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/images/arya-profile-photo.jpg" # image path/url
-    alt: "my avatar" # alt text
-    caption: "my avatar" # display caption under cover
+    image: "/images/Clipboard_2026-06-30-02-29-05.png" # image path/url
+    alt: "Oracle cloud infrastructure diagram." # alt text
+    caption: "Oracle cloud infrastructure diagram." # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
