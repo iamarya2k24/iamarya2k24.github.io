@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Post #1 - Hello World"
 date: 2026-02-18T16:30:03+05:30
 weight: 1
 aliases: ["/first-post"]

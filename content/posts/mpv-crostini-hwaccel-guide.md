@@ -1,5 +1,5 @@
 ---
-title: "mpv on ChromeOS with Hardware acceleration"
+title: "Post #2 - mpv on ChromeOS with Hardware acceleration"
 date: 2026-03-08T16:30:03+05:30
 weight: 2
 #aliases: ["/first-post"]

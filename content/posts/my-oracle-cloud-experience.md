@@ -1,5 +1,5 @@
 ---
-title: "Post 4 - My Oracle cloud experience"
+title: "Post #4 - My Oracle cloud experience"
 date: 2026-06-29T16:30:03+05:30
 #weight: 4
 aliases: ["/my-oracle-cloud-experience"]
@@ -24,9 +24,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/images/arya-profile-photo.jpg" # image path/url
-    alt: "my avatar" # alt text
-    caption: "my avatar" # display caption under cover
+    image: "/images/excalidraw-oracle.png" # image path/url
+    alt: "Oracle cloud infrastructure diagram." # alt text
+    caption: "Oracle cloud infrastructure diagram." # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
@@ -62,7 +62,7 @@ This is a high level diagram depicting a typical dev env on OC.
 
 > **Note:** If you want IPv6 address for your instances, you need to create a custom VCN and enable IPv6 support, create subnets, routes with IPv6 addresses.
 
-![](/images/Clipboard_2026-06-30-02-29-05.png)
+![](/images/excalidraw-oracle.png)
 
 ### Current state of the project: **HOLD**
 ---

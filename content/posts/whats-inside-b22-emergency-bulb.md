@@ -1,5 +1,5 @@
 ---
-title: "Surya B22 Inverter Bulb Teardown: Fix Blinking Issues & Battery Failure"
+title: "Post #3 - Whats inside a Surya B22 Inverter Bulb"
 date: 2026-02-22T16:30:03+05:30
 weight: 3
 aliases: ["/inside-a-b22-emergency-bulb"]
