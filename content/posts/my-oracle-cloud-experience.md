@@ -93,7 +93,7 @@ The current service deployed on the instance is WikiJS using the LinuxServer.io 
 
 As the instance is low on ram and CPU, I have setup earlyoom to restart services when the memory is too low.
 
-![Earlyoom status](/images/screenshot-earlyoom.png)
+![](/images/screenshot-earlyoom.png)
 
 ### Note:
 I will update the post with more details as I try and deploy more services to the instance. Subscribe to my RSS Feed to stay updated.
