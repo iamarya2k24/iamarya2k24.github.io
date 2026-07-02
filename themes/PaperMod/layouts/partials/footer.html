@@ -14,15 +14,21 @@
         {{- print " · "}}
     {{- end }}
 
-    <!-- Git Commit Hash Block -->
+       <!-- Safe Global/Local Git Commit Hash Block -->
+    {{- $gitInfo := .GitInfo }}
+    {{- if not $gitInfo }}
+        {{- with $.Site.GetPage "/" }}
+            {{- $gitInfo = .GitInfo }}
+        {{- end }}
+    {{- end }}
+
+    {{- with $gitInfo }}
     <span>
-        <a href="https://github.com{{ hugo.CommitHash }}" rel="noopener noreferrer" target="_blank">
-            Revision: <code>{{ substr hugo.CommitHash 0 7 }}</code>
-        </a>
+        Revision: <code>{{ .AbbreviatedHash }}</code>
     </span>
+    {{- end }}
 
     <span>&middot;</span>
-    <span>    
 
     <span>
         Powered by
