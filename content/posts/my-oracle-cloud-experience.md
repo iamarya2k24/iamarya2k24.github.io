@@ -1,5 +1,5 @@
 ---
-title: "Post #4 - My Oracle cloud experience"
+title: "Post #4 - Launching my first instance on OCI"
 date: 2026-06-29T16:30:03+05:30
 #weight: 4
 aliases: ["/my-oracle-cloud-experience"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "My experience with Oracle cloud free tier."
+description: "My experience launching my first instance on Oracle cloud free tier."
 canonicalURL: "https://iamarya2k24.github.io/posts/content"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -64,8 +64,10 @@ This is a high level diagram depicting a typical dev env on OC.
 
 ![](/images/excalidraw-oracle.png)
 
-### Current state of the project: **HOLD**
+### Current state of the project: Green
 ---
+
+
 
 I will update the post with more details as I try and configure my instance with the software I use.
 
