@@ -11,8 +11,8 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "TLDR: If you want to try you will need a pay-as-you-go account. Otherwise read this post and learn the painful limitations of it."
-canonicalURL: "https://iamarya2k24.github.io/posts/content"
+description: "TLDR: If you want to try, Opt for a pay-as-you-go account. Otherwise read this post and learn the painful limitations of it."
+#canonicalURL: "https://iamarya2k24.github.io/posts/content"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 hideSummary: false
@@ -93,7 +93,7 @@ The current service deployed on the instance is WikiJS using the LinuxServer.io 
 
 As the instance is low on ram and CPU, I have setup earlyoom to restart services when the memory is too low.
 
-![Earlyoom status](/images/screenshot-earlyoom.png)
+![](/images/screenshot-earlyoom.png)
 
 ### Note:
 I will update the post with more details as I try and deploy more services to the instance. Subscribe to my RSS Feed to stay updated.
