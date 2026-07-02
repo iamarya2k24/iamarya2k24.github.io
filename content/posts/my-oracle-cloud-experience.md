@@ -33,6 +33,10 @@ editPost:
     URL: "https://github.com/iamarya2k24/iamarya2k24.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
+
+images:
+  - /images/excalidraw-oracle.png
+  - /images/screenshot-earlyoom.png   
 ---
 ### Project Status: 🟢
 
