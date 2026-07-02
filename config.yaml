@@ -14,7 +14,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "My Notes & Portfolio"
-  description: "A place where I share my thoughts on DIY, SRE, DevOPS, AWS, Consulting"
+  description: "A place where I share my thoughts on DIY, SRE, DevOPS, AWS, Cloud Computing"
   keywords: ["Blog", "Portfolio", "Technology", "DevOps", "SRE", "Linux Admin", "Raspberry Pi", "Cloud Engineering", "CloudOps", "AWS", "OVH", "Azure", "Digital Ocean", "Vultr"]
   author: Me
   # author: ["Me", "You"] # multiple authors
