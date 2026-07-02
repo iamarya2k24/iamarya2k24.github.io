@@ -14,10 +14,20 @@
         {{- print " · "}}
     {{- end }}
 
+    <!-- Git Commit Hash Block -->
+    <span>
+        <a href="https://github.com{{ hugo.CommitHash }}" rel="noopener noreferrer" target="_blank">
+            Revision: <code>{{ substr hugo.CommitHash 0 7 }}</code>
+        </a>
+    </span>
+
+    <span>&middot;</span>
+    <span>    
+
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a> 
     </span>
 </footer>
 {{- end }}

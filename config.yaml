@@ -151,8 +151,7 @@ outputs:
     - RSS
     - JSON # necessary for search
 
-frontmatter:
-  lastmod = [':git', ':fileModTime']
+enableGitInfo: true
 
 timeZone :
     "Asia/Kolkata"
