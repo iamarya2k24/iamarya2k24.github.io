@@ -25,9 +25,9 @@
       <span class="badge-label">Build</span>
       <code class="badge-value">
         {{ if .GitInfo }}
-            {{ .GitInfo.AbbreviatedHash }}
+            {{ substr .GitInfo.AbbreviatedHash 0 7 }}
         {{ else }}
-            {{ hugo.CommitHash }}
+            {{ substr hugo.CommitHash 0 7 }}
         {{ end }}
       </code>
     </span> 
