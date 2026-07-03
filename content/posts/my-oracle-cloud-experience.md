@@ -69,7 +69,6 @@ This is a high level diagram depicting a typical dev env on OC.
 
 ### The Basics
 
-
 Due to availability constraints I went with the VM.Standard.E2.1.Micro Shape and Ubuntu Minimal OS Image.
 
 We need to configure the network. Create a VCN i.e. virtual cloud network & modify the subnet security lists, create/update a network security group and attach that to the instance.
