@@ -33,6 +33,10 @@ editPost:
     URL: "https://github.com/iamarya2k24/iamarya2k24.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
+
+images:
+  - /images/excalidraw-oracle.png
+  - /images/screenshot-earlyoom.png   
 ---
 ### Project Status: 🟢
 
@@ -83,7 +87,7 @@ In AWS terms the terminologies would be as follows:
 
 I preconfigured the VCN, Security groups and Securilty lists as per my requirement before launching the instance. You can create a new SSH keypair or add your public key to enable logins. I went with default 50GB Volume size and added my NSG to the instance.
 
-As for the system configuration, [I removed UFW as its not officially supported][2] instead I setup firewalld and configured the ports I wanted to allow.
+As for the system configuration, [I removed UFW as its not officially supported][2] instead I setup firewalld and [configured the ports][3] I wanted to allow.
 
 I am using docker + docker-compose for managing my stacks.
 
@@ -107,3 +111,7 @@ I will update the post with more details as I try and deploy more services to th
 [blogs.oracle.com][2]
 
 [2]: https://blogs.oracle.com/developers/enabling-network-traffic-to-ubuntu-images-in-oracle-cloud-infrastructure
+
+[digitalocean.com][3]
+
+[3]: https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands#service-web-server
