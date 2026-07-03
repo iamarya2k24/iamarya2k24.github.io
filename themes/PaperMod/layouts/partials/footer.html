@@ -14,21 +14,24 @@
         {{- print " · "}}
     {{- end }}
 
-    <!-- Git Commit Hash Block -->
-    <span>
-        <a href="https://github.com/iamarya2k24/iamarya2k24.github.io/commit/main" rel="noopener noreferrer" target="_blank">
-            Site Revision: {{ substr hugo.CommitHash 0 7 }}
-        </a>
-    </span>
-
-    <span>&middot;</span>
-    <span>    
-
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a> 
     </span>
+    <span>&middot;</span>
+        <!-- Git Commit Hash Block -->
+         <span class="commit-badge">
+      <span class="badge-label">Build</span>
+      <code class="badge-value">
+        {{ if .GitInfo }}
+            {{ .GitInfo.AbbreviatedHash }}
+        {{ else }}
+            {{ hugo.CommitHash }}
+        {{ end }}
+      </code>
+    </span> 
+
 </footer>
 {{- end }}
 

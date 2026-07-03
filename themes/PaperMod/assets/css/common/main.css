@@ -64,3 +64,41 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+/* Base wrapper for the split-color badge */
+.commit-badge {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid var(--border);
+    /* Matches PaperMod theme border colors dynamically */
+    border-radius: 4px;
+    /* Slightly rounded corners for a modern look */
+    overflow: hidden;
+    /* Prevents background colors from bleeding past corners */
+}
+
+/* Left side of the badge: The "Build" label */
+.badge-label {
+    background-color: var(--code-bg);
+    /* Uses PaperMod's built-in block background token */
+    color: var(--secondary);
+    /* Uses theme's secondary muted text color */
+    padding: 2px 6px;
+    /* Tight internal spacing */
+    font-weight: 500;
+    /* Medium text weight for emphasis */
+    border-right: 1px solid var(--border);
+    /* Vertical divider between label and hash */
+}
+
+/* Right side of the badge: The Git commit hash value */
+.badge-value {
+    background-color: var(--theme);
+    /* Seamlessly mirrors the container background */
+    padding: 2px 6px;
+    font-family: monospace;
+    /* Fixed-width font ensures clean hash spacing */
+    color: var(--primary);
+    /* Dark text in light mode, light text in dark mode */
+    font-weight: 700;
+}
