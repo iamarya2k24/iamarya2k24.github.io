@@ -27,7 +27,7 @@
         {{ if .GitInfo }}
             {{ substr .GitInfo.AbbreviatedHash 0 7 }}
         {{ else }}
-            {{ hugo.CommitHash }}
+            {{ substr hugo.CommitHash 0 7 }}
         {{ end }}
       </code>
     </span> 
