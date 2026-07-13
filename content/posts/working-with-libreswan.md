@@ -1,9 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Post #5 - Working With Libreswan"
+date: 2026-07-13T12:27:40+05:30
 weight: []
 aliases: []
-tags: []
+tags: ["oracle"]
 author: "Me"
 showToc: true
 TocOpen: false
@@ -33,3 +33,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+#Libreswan
