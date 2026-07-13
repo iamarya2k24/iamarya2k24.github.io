@@ -1,7 +1,7 @@
 ---
 title: "Post #3 - Whats inside a Surya B22 Inverter Bulb"
 date: 2026-02-22T16:30:03+05:30
-weight: 3
+weight: []
 aliases: ["/inside-a-b22-emergency-bulb"]
 tags: ["diy", "electronics"]
 author: "Me"

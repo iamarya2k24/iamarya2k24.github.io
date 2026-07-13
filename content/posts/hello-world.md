@@ -1,7 +1,7 @@
 ---
 title: "Post #1 - Hello World"
 date: 2026-02-18T16:30:03+05:30
-weight: 1
+weight: []
 aliases: ["/first-post"]
 tags: ["firstPost"]
 author: "Me"

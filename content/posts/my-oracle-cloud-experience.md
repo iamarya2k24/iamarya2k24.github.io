@@ -1,7 +1,7 @@
 ---
 title: "Post #4 - Launching my first instance on OCI"
 date: 2026-06-29T16:30:03+05:30
-#weight: 4
+weight: []
 aliases: ["/my-oracle-cloud-experience"]
 tags: ["oracle"]
 author: "Me"
