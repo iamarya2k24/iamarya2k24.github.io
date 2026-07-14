@@ -1,5 +1,5 @@
 ---
-title: "Post #5 - Working With Libreswan"
+title: "Working With Libreswan"
 date: 2026-07-13T12:27:40+05:30
 weight: []
 aliases: []
@@ -34,4 +34,4 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-#Libreswan
+# Libreswan
