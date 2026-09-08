@@ -1,6 +1,6 @@
 ---
 title: "Hope!"
-date: 2026-09-8T22:27:40+05:30
+date: 2026-09-08T22:27:40+05:30
 weight: []
 aliases: []
 tags: ["life"]
