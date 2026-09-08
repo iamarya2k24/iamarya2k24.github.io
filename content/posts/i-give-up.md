@@ -7,7 +7,7 @@ tags: ["life"]
 author: "Me"
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: ""
